@@ -1,2 +1,2 @@
 #!/bin/bash
-This directory shows helps understand shell redirections
+0x02. Shell, I/O Redirections and filters
